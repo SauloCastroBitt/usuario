@@ -1,4 +1,4 @@
-package com.javanauta.infrastructure.security;
+package com.javanauta.usuario.infrastructure.security;
 
 
 import io.jsonwebtoken.Claims;
